@@ -25,5 +25,5 @@
       "dest": "resume/wsgi.py"
     }
   ],
-  "outputDirectory": "ui/staticfiles"
+  "outputDirectory": "staticfiles"
 }
