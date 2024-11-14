@@ -1,4 +1,3 @@
-
 {
   "version": 2,
   "builds": [
@@ -24,6 +23,5 @@
       "src": "/(.*)",
       "dest": "resume/wsgi.py"
     }
-  ],
-  "outputDirectory": "staticfiles"
+  ]
 }
